@@ -1,5 +1,6 @@
 console.log(
   "Uwielbiam JavaScript!")
+
 /* Opis
 
 1. Stwórz plik main.js
